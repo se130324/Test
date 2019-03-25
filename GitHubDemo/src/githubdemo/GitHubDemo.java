@@ -38,10 +38,8 @@ public class GitHubDemo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-        System.out.println("This is Po**nHudbb test");
-
-    }
+        System.out.println("This is GITHUB test-5");
+}
     
 }
 >>>>>>> b92d764dfcd123aec02a6b174a93be1567fe1730
